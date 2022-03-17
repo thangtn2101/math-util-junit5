@@ -1,6 +1,6 @@
 [![MathUtil CI using Ant&JUnit| ©2022 by thangn.tran](https://github.com/thangtn2101/math-util/actions/workflows/mathutil-ci.yml/badge.svg)](https://github.com/thangtn2101/math-util/actions/workflows/mathutil-ci.yml)
-# Welcome to Math Utility Repository
-## This repo store a Java libary to support for the Math calculation. You will find in this Repository the following stuff
+# Welcome to Math Utility JUnit Repository
+## This repo store A factorial exercise to practice and understand the continuous integration process and Data-driven testing Test Driven Development techniques. You will find in this Repository the following stuff
 
 * MathUtil class to offer the basic math operations. E.g compute a fatorial....
 * CI (continous Integration) configuration
@@ -11,4 +11,4 @@
 ##### © thangn.tran 2022
 
 ### Screenshots:
-![DTT with TDD using JUnit](https://github.com/thangtn2101/math-util/blob/main/screenshots/DTT%20with%20TDD%20using%20JUnit.png)
+![DTT with TDD using JUnit](https://github.com/thangtn2101/math-util-junit5/blob/main/images/Screenshot%202022-03-17%20202008.png)
