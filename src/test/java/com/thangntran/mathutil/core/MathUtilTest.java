@@ -15,7 +15,6 @@ import org.junit.jupiter.params.provider.MethodSource;
  * @author thang
  */
 public class MathUtilTest {
-    
    @Test
    public void testFactorialGivenRightArgumentReturnWell(){
        assertEquals(120, MathUtil.getFratorial(5));
@@ -32,7 +31,6 @@ public class MathUtilTest {
    public void testFactorialGivenRightArgumentReturnWell(int input, int expected){
        assertEquals(expected, MathUtil.getFratorial(input));
    }
-   
    //bat ngoai le 
    @Test
    public void testFactorialGivenWrongArgumentThrownExeption(){

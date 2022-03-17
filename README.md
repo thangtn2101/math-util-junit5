@@ -1,4 +1,4 @@
-# Welcome to Math Utility JUnit Repository
+# Welcome to math-util-junit5 repository
 ## This repo store A factorial exercise to practice and understand the continuous integration process and Data-driven testing Test Driven Development techniques. You will find in this Repository the following stuff
 
 * MathUtil class to offer the basic math operations. E.g compute a fatorial....
@@ -6,6 +6,7 @@
 * Source code to demo TDD/DDT technique
 * .gitignore file to demo the feature of selection something to upload 
 * README.md file to demo how to show a description of a repo by default
+* Java with Maven
 
 ##### © thangn.tran 2022
 
