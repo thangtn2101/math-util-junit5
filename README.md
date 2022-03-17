@@ -1,4 +1,3 @@
-[![MathUtil CI using Ant&JUnit| ©2022 by thangn.tran](https://github.com/thangtn2101/math-util/actions/workflows/mathutil-ci.yml/badge.svg)](https://github.com/thangtn2101/math-util/actions/workflows/mathutil-ci.yml)
 # Welcome to Math Utility JUnit Repository
 ## This repo store A factorial exercise to practice and understand the continuous integration process and Data-driven testing Test Driven Development techniques. You will find in this Repository the following stuff
 
