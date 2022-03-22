@@ -1,5 +1,5 @@
 # Welcome to math-util-junit5 repository
-## This repo store A factorial exercise to practice and understand the continuous integration process and Data-driven testing Test Driven Development techniques. You will find in this Repository the following stuff
+## This repo store A program to calculate factorial to practice and understand the continuous integration process and Data-driven testing Test Driven Development techniques. You will find in this Repository the following stuff
 
 * MathUtil class to offer the basic math operations. E.g compute a fatorial....
 * CI (continous Integration) configuration
